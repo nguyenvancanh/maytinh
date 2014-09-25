@@ -1,0 +1,19 @@
+
+fieldset{
+width:400px;
+border:1px solid #2c2c2c;
+margin-top: 10px;
+margin-right: auto;
+margin-bottom: auto;
+margin-left: auto;
+}
+
+span.largefont {
+  color: #0066FF;
+  font-family:arial;
+  font-size: 14px;
+} 
+#select{
+	height: 30px;
+	width: 10%;
+}
